@@ -1,15 +1,14 @@
 span {
-    color: beige;
+    color: red;
     text-align: center;
     font-family:Arial Black;
-    font-size: 30px;
-    -webkit-text-stroke: 1px brown
-    
+    font-size: 50px;
+   
 }
 
-#subtitulos {
-	color: brown;
+span1 {
+	color: red;
     text-align: center;
-    font-family: arial;
-    font-size: 20px;
-	
+    font-family: cambria;
+    font-size: 20px:
+}
